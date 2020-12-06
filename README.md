@@ -1,7 +1,7 @@
 # Quantum-operations
 
 
-## Part 1. check Jordan-Wigner encoding-2.ipynb
+## Part 1. 
 Jordan-Wigner encoding
 - 1 qubit operation
 - 2 qubits operation including annihilation and creation operations.
